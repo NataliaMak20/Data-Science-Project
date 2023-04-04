@@ -13,5 +13,5 @@
 [Co2 Emission prediction](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Project%20Documentation_Report.pdf)
 
 ## Streamlit App
-##### We've made a simple Streamlit App so we are able to see the result of our top two models. 
+##### We have developed a basic Streamlit application that enables us to view the output of our best two models.
 ![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streanlit.app3.png)
