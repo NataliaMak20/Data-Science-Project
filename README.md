@@ -23,6 +23,10 @@
 ##### By analyzing these histogram and boxplot, we can obtain a precise understanding of the performance of our model.
 ![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streamlit.app2.png)
 
+##### The dataset used for the project linked bellow.
+[Co2 Emission Dataset](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/CO2Emissions_Canada.csv)
+
+
 
 
 
