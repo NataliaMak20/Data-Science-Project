@@ -13,14 +13,14 @@
 [Co2 Emission prediction](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Project%20Documentation_Report.pdf)
 
 ## Streamlit App
-##### We have developed a basic Streamlit application that enables us to view the output of our best two models.
-##### The initial page provides an overview of the content we wish to present, while on the left-hand side, we have a menu that allows you to switch between different models, view data, and observe the outcomes.
+##### I have developed a basic Streamlit application that enables us to view the output of our best two models.
+##### The initial page provides an overview of the content I wish to present, while on the left-hand side, I have a menu that allows you to switch between different models, view data, and observe the outcomes.
 ![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streanlit.app3.png)
 
 ![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streamlit.app1.png)
 
-##### By utilizing rmse and r^2score, we can observe the outcomes of our models.
-##### By analyzing these histogram and boxplot, we can obtain a precise understanding of the performance of our model.
+##### By utilizing rmse and r^2score, I can observe the outcomes of our models.
+##### By analyzing these histogram and boxplot, I can obtain a precise understanding of the performance of our model.
 ![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streamlit.app2.png)
 
 ##### The dataset used for the project linked bellow.
