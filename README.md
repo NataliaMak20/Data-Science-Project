@@ -14,4 +14,4 @@
 
 ## Streamlit App
 ##### We've made a simple Streamlit App so we are able to see the result of our top two models. 
-![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streamlit.app.pic.png)
+![Image alt](https://github.com/NataliaMak20/Data-Science-Projects/blob/main/Images/streanlit.app3.png)
